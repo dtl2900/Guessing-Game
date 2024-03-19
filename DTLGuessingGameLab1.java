@@ -1,11 +1,6 @@
 // Programmer Daniel Torres Larreta
-// Class: CS 145
-// Date 01/09/2024
-// Assignemnt: Lab 1 Guessing Game 
 // Purpose: This program will create a basic guessing game. This program will gather user data and be interactive with the user.
 // Working on improving the basics and making a previous lab cleaner and more efficient. 
-// Small issue: When typing yes to play again you have to type it twice to continue playing
-
 
 import java.util.Random;
 import java.util.Scanner;
